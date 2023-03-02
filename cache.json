@@ -1,0 +1,12 @@
+{
+    "hashes": {
+        "checkpoint/final-prune.ckpt": {
+            "mtime": 1665122544.3176749,
+            "sha256": "89d59c3dde4c56c6d5c41da34cc55ce479d93b4007046980934b14db71bdb2a8"
+        },
+        "checkpoint/Anything-V3.0-no-ema-full.ckpt": {
+            "mtime": 1672839247.3145154,
+            "sha256": "7b66ce8d3a639e13f14761a29de61e252cf5aa489ae967228d96166fc3f55b40"
+        }
+    }
+}
