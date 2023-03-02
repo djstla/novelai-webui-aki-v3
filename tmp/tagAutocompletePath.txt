@@ -1,0 +1,1 @@
+extensions/a1111-sd-webui-tagcomplete/tags
